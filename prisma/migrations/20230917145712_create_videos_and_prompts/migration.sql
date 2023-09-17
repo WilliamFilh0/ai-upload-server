@@ -1,5 +1,5 @@
 -- CreateTable
-CREATE TABLE "Vide" (
+CREATE TABLE "Video" (
     "id" TEXT NOT NULL PRIMARY KEY,
     "name" TEXT NOT NULL,
     "path" TEXT NOT NULL,
